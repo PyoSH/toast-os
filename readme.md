@@ -1,5 +1,6 @@
 # Orbit
-프로세스 스케줄링 시뮬레이터 - KOREATECH '23년 1학기 운영체제 학기과제
+프로세스 스케줄링 시뮬레이터 
+- KOREATECH '23년 1학기 운영체제 학기과제 **최우수 프로젝트**
 
 ![Application demo](demo.png)
 
